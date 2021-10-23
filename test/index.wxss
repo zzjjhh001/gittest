@@ -1,0 +1,4 @@
+.person {
+  font-size: 2123px;
+  color: red;
+}
