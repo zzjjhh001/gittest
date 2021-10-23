@@ -1,0 +1,4 @@
+.personal{
+	font-size: 123rpx;
+	color: blue;
+}
